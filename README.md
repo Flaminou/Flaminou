@@ -23,9 +23,9 @@ participate in new projects (community / development side).
 - Join a development team.
 
 ## 👥 __Social and Contact__
- - Discord - Flaminou#9999 - http://dsc.bio/flaminou
+ - [Discord](http://dsc.bio/flaminou) - Flaminou#9999
  - [Twitter](https://twitter.com/Flaminouu)
  - [Instagram](https://www.instagram.com/flaminou.offi/)
- - Mail - flaminou.pro@gmail.com
- - More about me - https://flaminouu.carrd.co/
+ - [More about me](https://flaminouu.carrd.co/)
+ - flaminou.pro@gmail.com
  
