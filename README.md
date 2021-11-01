@@ -27,6 +27,5 @@ participate in new projects (community / development side).
  - Twitter https://twitter.com/Flaminouu
  - Instagram - https://www.instagram.com/flaminou.offi/
  - Mail - flaminou.pro@gmail.com
- - More about me (French Website) : https://flaminouu.carrd.co/
- -
+ - More about me - https://flaminouu.carrd.co/
  
