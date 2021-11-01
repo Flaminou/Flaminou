@@ -1,7 +1,4 @@
-# ✍ Biography
-
-Hello, my name is **Flaminou** (Enzo), I'm 18 years old, and i'm French. I'm passionate about informatic and new technologies. Currently i'm learning JS, Python....
-Currently im Staff for @lvzoff, he is a french sad rapper. I moderate his discord and i have create a bot discord for him.
+# 🔍 Biography
 
 Hello, my name is **Flaminou** (Enzo), I'm 18 years old, I'm passionate about computer science since always. I am a student in Terminal Système Numérique.
 Aiming to become a future developer, I am very interested in software development and the functioning of new technologies.
