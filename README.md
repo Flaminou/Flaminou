@@ -1,7 +1,7 @@
 # 🔍 Biography
 
 Hello, my name is **Flaminou** (Enzo), I'm 18 years old, I'm passionate about computer science since always. 
-I am a student in Terminal Système Numérique. In the future, I want to continue my studies in the development.
+I am a student in terminal numerical system. In the future, I want to continue my studies in the development.
 Aiming to become a future developer, I am very interested in software development and the functioning of new technologies.
 As someone who enjoys helping and organizing events, I really like moderation, event/community management.
 
