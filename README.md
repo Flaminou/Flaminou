@@ -5,24 +5,24 @@ I am a student in Terminal Système Numérique. In the future, I want to continu
 Aiming to become a future developer, I am very interested in software development and the functioning of new technologies.
 As someone who enjoys helping and organizing events, I really like moderation, event/community management.
 
-Currently im Staff for @lvzoff, he is a french sad rapper. I moderate his discord and i have create a bot discord for him.
+Currently im Staff for **@lvzoff**, he is a french sad rapper. I moderate his discord and i have create a bot discord for him.
 At the same time, I'm hard working I try to learn programming as much as possible and potentially became a futur developer.
 At the moment, I'm open to any project request.
 
-## 💻  Practical Languages
+## 💻  __Practical Languages__
 - **HTML** / **CSS** / **PHP**
 - **JavaScript** / **NodeJS**
 - **Python**
 - **LUA*
 
-## 🎯 Objectives
+## 🎯 __Objectives__
 
 - Create a complex moderation bot discord.
 - Learn as many programming languages as possible.
 participate in new projects (community / development side).
 - Join a development team.
 
-## 👥 Social and Contact
+## 👥 __Social and Contact__
  - Discord - Flaminou#9999
  - Twitter https://twitter.com/Flaminouu
  - Instagram - https://www.instagram.com/flaminou.offi/
