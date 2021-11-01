@@ -1,16 +1,31 @@
-### Hi there 👋
+# ✍ Biography
 
-<!--
-**Flaminou/Flaminou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello, my name is **Flaminou** (Enzo), I'm 18 years old, and i'm French. I'm passionate about informatic and new technologies. Currently i'm learning JS, Python....
+Currently im Staff for @lvzoff, he is a french sad rapper. I moderate his discord and i have create a bot discord for him.
 
-Here are some ideas to get you started:
+Hello, my name is **Flaminou** (Enzo), I'm 18 years old, I'm passionate about computer science since always. I am a student in Terminal Système Numérique.
+Aiming to become a future developer, I am very interested in software development and the functioning of new technologies.
+As someone who enjoys helping and organizing events, I really like moderation, event/community management.
+Currently im Staff for @lvzoff, he is a french sad rapper. I moderate his discord and i have create a bot discord for him.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+At the same time, I'm hard working I try to learn programming as much as possible and potentially became a futur developer.
+
+## 💻  Practical Languages
+- **HTML** / **CSS** / **PHP**
+- **JavaScript** / **NodeJS**
+- **Python**
+- **LUA*
+
+## 🎯 Objectives
+
+- Create a complex moderation bot discord.
+- Learn as many programming languages as possible.
+participate in new projects (community / development side).
+- Join a development team.
+
+## 👥 Social and Contact
+ - Discord - Flaminou#9999
+ - Twitter https://twitter.com/Flaminouu
+ - Instagram - https://www.instagram.com/flaminou.offi/
+- More about me (French Website) : https://flaminouu.carrd.co/
+ 
