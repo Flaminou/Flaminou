@@ -26,6 +26,6 @@ participate in new projects (community / development side).
  - [Discord](http://dsc.bio/flaminou) - Flaminou#9999
  - [Twitter](https://twitter.com/Flaminouu)
  - [Instagram](https://www.instagram.com/flaminou.offi/)
- - [More about me](https://flaminouu.carrd.co/)
+ - [More about me](https://flaminou.crd.co/)
  - flaminou.pro@gmail.com
  
